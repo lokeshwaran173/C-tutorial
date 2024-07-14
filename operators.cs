@@ -1,5 +1,6 @@
 //assignment
 //arithmetic
+//add sub mult div
 
 static void Main(string[] args)
 {
